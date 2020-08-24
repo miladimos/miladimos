@@ -1,6 +1,8 @@
 ### Hi I'm < Miladimos />  👋
 ## I'm Fullstack Developer 😎 & kind hacker 😊
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=miladimos)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 <h2 align="center">Technologies & Languages I use</h2>
