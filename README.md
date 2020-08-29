@@ -2,6 +2,9 @@
 ## I'm Fullstack Developer 😎 & kind hacker 😊
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=miladimos)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 <h2 align="center">Technologies & Languages I use</h2>
