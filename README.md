@@ -2,7 +2,7 @@
 ## I'm Fullstack Developer 😎 & kind hacker 😊
 
 - 🔭 I’m currently working on PHP, Laravel, Python
-- 🌱 I’m currently learning Rust, Go
+- 🌱 I’m currently learning Rust, Go, D
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=miladimos&show_icons=true&cache_seconds=1800&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="center">Technologies & Languages I use</h2>
+<h2 align="center">I'm using these Languages & Technologies</h2>
 
 <p align="center">
     <svg viewBox="0 0 128 128">
