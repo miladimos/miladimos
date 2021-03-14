@@ -1,5 +1,5 @@
 ### Hi I'm < Miladimos />  👋
-## I'm Fullstack Developer 😎 & kind hacker 😊
+## I'm Backend Developer 😎 & kind hacker 😊
 
 - 🔭 I’m currently working on PHP, Laravel, Python
 - 🌱 I’m currently learning C, C++, Rust
