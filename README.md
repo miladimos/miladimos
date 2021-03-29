@@ -1,8 +1,7 @@
 ### Hi I'm < Miladimos />  👋
 ## I'm Backend Developer 😎 & kind hacker 😊
 
-- 🔭 I’m currently working on PHP, Laravel, Python
-- 🌱 I’m currently learning C, C++, Rust
+- 🔭 I’m currently working on PHP, Laravel, docker
 - 👯 I’m looking to collaborate on my projects
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=miladimos&show_icons=true&cache_seconds=1800&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
