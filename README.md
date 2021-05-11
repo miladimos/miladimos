@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="center">I'm using these Technologies or is my interesting</h2>
+<h2 align="center">I'm using these Technologies or is my interesting.</h2>
 
 <p align="center">
     <svg viewBox="0 0 128 128">
