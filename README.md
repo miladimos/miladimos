@@ -1,9 +1,9 @@
 ### Hi I'm < Miladimos />  👋
 ## I'm Backend Developer 😎 & kind hacker 😊
 
-- 🔭 I’m currently working on PHP, Laravel
+- 🔭 I’m currently working on Laravel @dartevel
 - 🌱 I’m currently learning C/C++, flutter
-- 👯 I’m looking to collaborate on my projects
+- 👯 I’m looking to collaborate on my projects @dartevel @laravelir
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=miladimos&show_icons=true&cache_seconds=1800&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
