@@ -45,7 +45,7 @@
     <a href="https://github.com/miladimos">
         <img src="https://img.shields.io/github/followers/amir9480?label=Github&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
     </a>
-    <a href="mailto:message.tome1331@gmail.com">
+    <a href="mailto:miladimos@outlook.com">
         <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
     </a>
 </p>
