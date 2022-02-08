@@ -1,7 +1,7 @@
 ### Hi I'm < Miladimos />  👋
-## I'm Backend Developer 😎 & kind hacker 😊
+## I'm Backend Developer 😎
 
-- 🔭 I’m currently working on Laravel
+- 🔭 I’m currently working on Laravel, flutter
 - 👯 I’m looking to collaborate on my projects @dartevel @laravelir
 
 [my Gist profile](https://gist.github.com/miladimos/)
