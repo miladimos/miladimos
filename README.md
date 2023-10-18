@@ -1,8 +1,8 @@
 ### Hi I'm < Miladimos />  👋
 ## I'm Developer 😎
 
-- 🔭 I’m currently working on Laravel, Ruby, Svelte
-- 👯 I’m looking to collaborate on my projects @dartevel @laravelir @battlerstudio
+- 🔭 I’m currently working on Laravel, Django
+- 👯 I’m looking to collaborate on my projects @laravelir
 
 [my Gist profile](https://gist.github.com/miladimos/)
 
